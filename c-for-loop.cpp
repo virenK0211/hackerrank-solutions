@@ -1,3 +1,4 @@
+//challenge link https://www.hackerrank.com/challenges/c-tutorial-for-loop
 #include <iostream>
 #include <cstdio>
 using namespace std;
