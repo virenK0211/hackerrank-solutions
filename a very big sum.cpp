@@ -3,7 +3,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main()
-   { long long int i;
+{
+   long long int i;
     int ar[100];
     
     cin>>i;
